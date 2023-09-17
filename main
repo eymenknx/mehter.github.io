@@ -1,1 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="NW.css">
+    <audio autoplay loop>
 
+        <source src="audio/ceddin-deden.mp3">
+
+    </audio>
+</head>
+<body>
+    <header>
+        <h1 id="z">Mehter Sitesine Hoşgeldiniz</h1>
+
+        <h6 id="b">Ücretsiz mehter dinle full hd</h6>
+
+    </header>
+    <box>
+
+        <p><span>Ceddin deden, neslin baban</span></p>
+
+        <br>
+
+        <p><span>En kahraman Türk milleti</span></p>
+
+        <br>
+
+        <p><span>Orduların, pek çok zaman</span></p>
+
+        <br>
+
+        <p><span>Vermiştiler cihana şan</span></p>
+
+        <br>
+
+        <p><span>Türk milleti,</span></p>
+
+        <br>
+
+        <p><span>Aşk ile sev milliyeti</span></p>
+
+        <br>
+
+        <p><span>Kahret vatan düşmanını</span></p>
+
+        <br>
+
+        <p><span>Çeksin o mel'un zilleti</span></p>
+
+        <br>
+        
+    </box>
+
+
+</body>
+</html>
