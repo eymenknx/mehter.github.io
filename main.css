@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(255,255,255);
+    background-image: url(pictures/Osmanlı\ cccc.png);
+}
+
+h1{
+    color: rgb(12,12,45)
+}
+
+#b{
+    color: rgb(45,12,12)
+}
+
+p > span {
+    border: 3px solid rgb(0, 0, 0);
+    padding: 5px; /* Add padding to separate the borders */
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.119);
+    text-shadow: 5px 5px 3px;
+    background: -webkit-repeating-radial-gradient(center, rgb(132, 132, 132), rgb(255, 255, 255));
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+br {
+    margin-bottom: 50px
+}
